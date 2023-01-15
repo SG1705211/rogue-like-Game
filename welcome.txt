@@ -1,0 +1,28 @@
+|=============================================================================|
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                           _________________ __ __                           |
+|                          / ____/ ____/__  // //_/                           |
+|                         / /   / /     /_ </ ,<                              |
+|                        / /___/ /___ ___/ / /| |                             |
+|                        \____/\____//____/_/ |_|                             |
+|                                                                             |
+|                                                                             |
+|                       This is Chambercrawler3000.                           |
+|                   presented by Roselyn Zhang, Sean Gong                     |
+|                           Welcome, warrior!                                 |
+|              Please choose one character to start the adventure.            |
+|                                                                             |
+|             (please type 'h', 'd', 'e', 'o' to choose your character)       |
+|                                                                             |
+|                      Human: 140 HP, 20 Attack, 20 Defence.                  |       
+|                                                                             |        
+|          Dwarf: 100 HP, 20 Attack, 30 Defence. Gold is doubled in value.    |
+|                                                                             |
+|         Elves: 140 HP, 30 Attack, 10 Defence. All potions become positive   |
+|                                                                             |
+|          Orc: 180 HP, 30 Attack, 25 Defence. Gold is worth half value.      |
+|                                                                             |
+|                                Enjoy.                                       |
+|=============================================================================|
